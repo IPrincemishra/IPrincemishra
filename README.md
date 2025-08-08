@@ -9,6 +9,9 @@
 
 ---
 
+## 🎓 Education
+- BCA (NEP) — GCCBA 50, Chandigarh (Pursuing)
+
 ## 🏆 Achievement
 - **Winner** of the Web Development Competition at Punjab University (2024)
 
@@ -25,7 +28,11 @@
 - UI/UX Design Basics
 - **Version Control:** Git & GitHub
 
-## 🎓 Education
-- BCA (NEP) — GCCBA 50, Chandigarh (Pursuing)
+## 📈 GitHub Stats
+
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=IPrincemishra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IPrincemishra&layout=compact&theme=radical)
+
+---
 
 ## 📫 Connect & Portfolio
