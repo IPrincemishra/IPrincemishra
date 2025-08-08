@@ -36,3 +36,17 @@
 ---
 
 ## 📫 Connect & Portfolio
+- Telegram: [@iprincemishra](https://t.me/iprincemishra)
+- Instagram: [prince_mishra._](https://www.instagram.com/prince_mishra._/)
+
+---
+
+### About Me
+
+> `git commit -m "Solving real-world problems, one project at a time!"`
+>
+> I love collaborating, sharing knowledge, and building seamless digital experiences. Let’s connect and create something awesome together!
+
+---
+
+Feel free to explore my projects and reach out if you’d like to connect or collaborate!
