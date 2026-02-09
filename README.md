@@ -1,52 +1,96 @@
-# 🚀 Student MERN Developer Portfolio
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:00F7FF&height=200&section=header&text=Prince%20Mishra&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <h1>🚀 Full-Stack Architect | MERN Specialist</h1>
+  <p><b>Building scalable systems. Crafting clean interfaces. Thinking in logic.</b></p>
 
----
-
-👨‍💻 **Hi! I’m a passionate MERN stack developer specializing in JavaScript, ReactJS, and CSS. I enjoy building user-centric web applications and continually expanding my skills in modern web technologies.**
-
----
-
-## 🎓 Education
-- BCA (NEP) — GCCBA 50, Chandigarh (Pursuing)
-
-## 🏆 Achievement
-- **Winner** of the Web Development Competition at Punjab University (2024)
-
-## 💻 Projects
-- **YouTube Clone**: A feature-rich video platform inspired by YouTube.
-- **Netflix GPT**: An innovative movie streaming platform powered by AI.
-
-## 🌱 Skills
-- JavaScript (ES6+)
-- ReactJS
-- CSS3
-- Node.js & Express (learning)
-- MongoDB (learning)
-- UI/UX Design Basics
-- **Version Control:** Git & GitHub
-
-## 📈 GitHub Stats
-
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=IPrincemishra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IPrincemishra&layout=compact&theme=radical)
+  <p>
+    <img src="https://img.shields.io/badge/Status-Building%20Projects-00f7ff?style=for-the-badge&logo=rocket" />
+    <img src="https://img.shields.io/github/followers/IPrincemishra?style=for-the-badge&logo=github&color=0D1117" />
+  </p>
+  
+  <div align="center">
+    <img src="https://img.shields.io/github/languages/top/IPrincemishra/MiniMove?color=00F7FF&style=for-the-badge" />
+    <img src="https://img.shields.io/github/last-commit/IPrincemishra/MiniMove?color=00599C&style=for-the-badge" />
+  </div>
+</div>
 
 ---
 
-## 📫 Connect & Portfolio
-- Telegram: [@iprincemishra](https://t.me/iprincemishra)
-- Instagram: [prince_mishra._](https://www.instagram.com/prince_mishra._/)
+### 👤 Profile Overview
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IPrincemishra&theme=tokyonight" />
+</div>
 
 ---
 
-### About Me
+### 🛠️ The Tech Toolbox
 
-> `git commit -m "Solving real-world problems, one project at a time!"`
->
-> I love collaborating, sharing knowledge, and building seamless digital experiences. Let’s connect and create something awesome together!
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,html,css,tailwind,github,postman,vscode&theme=dark" />
+</div>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>Frontend</b><br />React, Tailwind
+    </td>
+    <td align="center" width="33%">
+      <b>Backend</b><br />Node.js, Express
+    </td>
+    <td align="center" width="33%">
+      <b>Database & Security</b><br />MongoDB, JWT
+    </td>
+  </tr>
+</table>
 
 ---
 
-Feel free to explore my projects and reach out if you’d like to connect or collaborate!
+### 📊 Performance Metrics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IPrincemishra&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IPrincemishra&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=IPrincemishra&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **🚐 MiniMove** | Intercity Travel Booking Ecosystem. | `MERN` `JWT` `Cron-Jobs` |
+| **🛠️ Service Platform** | Slot-based booking with Admin Dashboard. | `React` `Node` `MongoDB` |
+| **🤖 Netflix GPT** | AI-Powered Movie Recommendations. | `React` `OpenAI` `Redux` |
+| **📺 YouTube Clone** | High-performance Video UI & State Logic. | `React` `Tailwind` `API` |
+
+---
+
+### ⏱️ Coding Pulse (WakaTime)
+<div align="center">
+  <a href="https://wakatime.com/badge/user/7364f1d4-34de-4890-a902-eda39dfb17ad">
+    <img src="https://wakatime.com/badge/user/7364f1d4-34de-4890-a902-eda39dfb17ad.svg" alt="WakaTime Stat" />
+  </a>
+  <p><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
+</div>
+
+---
+
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:princemishra95927@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/IPrincemishra"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/IPrince_mishra"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://t.me/iprincemishra"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:00F7FF&height=110&section=footer" />
+</div>
